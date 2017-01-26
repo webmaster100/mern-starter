@@ -1,0 +1,35 @@
+.single-answer {
+  margin: 20px 0;
+  padding: 15px;
+  border-radius: 2px;
+}
+.author-name{
+  font-size: 16px;
+  margin-bottom: 16px;
+  color: #757575;
+  float:right;
+}
+
+.answer-desc{
+  font-size: 17px;
+  color: #555;
+  margin-bottom: 8px;
+}
+
+.divider{
+  border: 0;
+  height: 1px;
+  background: #ccc;
+  clear:both;
+  margin: 32px auto 0;
+}
+
+.answer-detail .answer-title{
+  font-size: 42px;
+  color: #454545;
+}
+
+.answer-detail .answer-desc{
+  font-size: 16px;
+  color: #555;
+}
